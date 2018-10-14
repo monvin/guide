@@ -40,5 +40,5 @@ Here you can see that in the graph of y = |x|, if -2 is input in to the function
 
 #### More Information:
 <a href='http://www.purplemath.com/modules/absolute.htm "Absolute Value"' target='_blank' rel='nofollow'>Absolute Value</a>
-
+*https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-abs-value/v/absolute-value-of-integers
 
