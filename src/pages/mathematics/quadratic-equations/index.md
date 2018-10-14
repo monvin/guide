@@ -41,8 +41,8 @@ It can be easily observed that that the values of the roots are equal only when 
 
 Let the roots of **ax^2+bx+c=0** be p and q, then
 
-p= (-b + sqrt(D))/2a
+p=(-b + sqrt(D))/2a
 
-q= (-b - sqrt(D))/2a
+q=(-b - sqrt(D))/2a
 
 * The the equation has imaginary roots, they will always be found in conjugate pairs. For example, if you know that one of roots is 2+3i then you can directly determine the other root as 2-3i by just changing the sign in between the real and imaginary part of value. (This can be inferred from the formula of calculating roots' value.)
