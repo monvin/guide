@@ -19,3 +19,4 @@ A square root can be simplified if the number you are trying to take the square 
 
 #### More Information:
 * [Khan Academy article on simplifying square roots](https://www.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-square-roots/a/simplifying-square-roots-review)
+*https://www.mathsisfun.com/square-root.html
