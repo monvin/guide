@@ -11,5 +11,5 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 Division is represented by the symbol '%'. To devide one number by antother is to find out how many times the second goes into the first. Therefore 7/2 = 3.5 because 2 goes into 7 3 and 1 half times.
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
-
+*https://en.wikipedia.org/wiki/Division_(mathematics)
 
